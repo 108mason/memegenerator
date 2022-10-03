@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/memegenerator/static/css/main.80ef65d1.css",
+    "main.js": "/memegenerator/static/js/main.745861d1.js",
+    "index.html": "/memegenerator/index.html",
+    "main.80ef65d1.css.map": "/memegenerator/static/css/main.80ef65d1.css.map",
+    "main.745861d1.js.map": "/memegenerator/static/js/main.745861d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80ef65d1.css",
+    "static/js/main.745861d1.js"
+  ]
+}
